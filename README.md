@@ -1,0 +1,2 @@
+# Doubly Linked List
+A C++ implementation of the doubly linked list data structure. A doubly linked list is a linked data structure that consists of a set of sequentially linked records called nodes. Each node contains three fields: two link fields and one data field. Functionality such as being able to insert at both ends of the list, delete from both ends, and have a cursor that can traverse the list in either direction.
